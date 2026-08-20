@@ -322,79 +322,69 @@ td
 	white-space:normal;}
 .xl84
 	{mso-style-parent:style0;
-	font-size:18.0pt;
+	color:black;
+	font-size:14.0pt;
 	font-family:等线;
 	mso-generic-font-family:auto;
 	mso-font-charset:134;
 	mso-number-format:"\@";
 	text-align:center;
-	border:.5pt solid windowtext;
 	background:white;
-	mso-pattern:black none;
-	mso-protection:unlocked visible;
-	white-space:normal;}
+	mso-pattern:black none;}
 .xl85
-	{mso-style-parent:style18;
-	font-size:18.0pt;
+	{mso-style-parent:style0;
+	font-size:14.0pt;
 	font-family:等线;
 	mso-generic-font-family:auto;
 	mso-font-charset:134;
 	mso-number-format:"\@";
 	text-align:center;
-	border:.5pt solid windowtext;
 	background:white;
-	mso-pattern:black none;
-	mso-protection:unlocked visible;
-	white-space:normal;}
+	mso-pattern:black none;}
 .xl86
-	{mso-style-parent:style18;
-	font-size:18.0pt;
+	{mso-style-parent:style0;
+	color:black;
+	font-size:14.0pt;
 	font-family:等线;
 	mso-generic-font-family:auto;
 	mso-font-charset:134;
-	mso-number-format:"\\$\#\,\#\#0\.00_\)\;\[Red\]\\\(\\$\#\,\#\#0\.00\\\)";
+	mso-number-format:"\@";
 	text-align:center;
-	border:.5pt solid windowtext;
 	background:white;
 	mso-pattern:black none;
-	mso-protection:unlocked visible;
 	white-space:normal;}
 .xl87
 	{mso-style-parent:style0;
 	color:black;
-	font-size:18.0pt;
-	font-family:等线;
-	mso-generic-font-family:auto;
-	mso-font-charset:134;
-	mso-number-format:"\@";
-	text-align:center;
-	border:.5pt solid windowtext;
-	background:white;
-	mso-pattern:black none;
-	mso-protection:unlocked visible;
-	white-space:normal;}
-.xl88
-	{mso-style-parent:style18;
-	color:windowtext;
-	font-size:18.0pt;
-	font-family:等线;
-	mso-generic-font-family:auto;
-	mso-font-charset:134;
-	mso-number-format:"\@";
-	text-align:center;
-	border:.5pt solid windowtext;
-	background:white;
-	mso-pattern:black none;
-	mso-protection:unlocked visible;
-	white-space:normal;}
-.xl89
-	{mso-style-parent:style18;
-	color:windowtext;
-	font-size:18.0pt;
+	font-size:14.0pt;
 	font-family:等线;
 	mso-generic-font-family:auto;
 	mso-font-charset:134;
 	mso-number-format:"\\$\#\,\#\#0\.00_\)\;\[Red\]\\\(\\$\#\,\#\#0\.00\\\)";
+	text-align:center;
+	background:white;
+	mso-pattern:black none;
+	white-space:normal;}
+.xl88
+	{mso-style-parent:style0;
+	color:black;
+	font-size:14.0pt;
+	font-family:等线;
+	mso-generic-font-family:auto;
+	mso-font-charset:134;
+	mso-number-format:"0_\)\;\[Red\]\\\(0\\\)";
+	text-align:center;
+	background:white;
+	mso-pattern:black none;
+	white-space:normal;}
+.xl89
+	{mso-style-parent:style0;
+	color:black;
+	font-size:22.0pt;
+	font-family:等线;
+	mso-generic-font-family:auto;
+	mso-font-charset:134;
+	mso-number-format:"\@";
 	text-align:center;
 	border:.5pt solid windowtext;
 	background:white;
@@ -402,27 +392,26 @@ td
 	mso-protection:unlocked visible;
 	white-space:normal;}
 .xl90
-	{mso-style-parent:style18;
-	color:windowtext;
-	font-size:18.0pt;
+	{mso-style-parent:style0;
+	color:black;
+	font-size:22.0pt;
 	font-family:等线;
 	mso-generic-font-family:auto;
 	mso-font-charset:134;
-	mso-number-format:"\0022￥\0022\#\,\#\#0\.00_\)\;\[Red\]\\\(\0022￥\0022\#\,\#\#0\.00\\\)";
+	mso-number-format:"\@";
 	text-align:center;
 	border:.5pt solid windowtext;
 	background:white;
 	mso-pattern:black none;
-	mso-protection:unlocked visible;
-	white-space:normal;}
+	mso-protection:unlocked visible;}
 .xl91
 	{mso-style-parent:style0;
 	color:black;
-	font-size:14.0pt;
+	font-size:22.0pt;
 	font-family:等线;
 	mso-generic-font-family:auto;
 	mso-font-charset:134;
-	mso-number-format:"\0022￥\0022\#\,\#\#0\.00_\)\;\[Red\]\\\(\0022￥\0022\#\,\#\#0\.00\\\)";
+	mso-number-format:"\\$\#\,\#\#0\.00_\)\;\[Red\]\\\(\\$\#\,\#\#0\.00\\\)";
 	text-align:center;
 	border:.5pt solid windowtext;
 	background:white;
@@ -435,17 +424,16 @@ td
 	font-family:等线;
 	mso-generic-font-family:auto;
 	mso-font-charset:134;
-	mso-number-format:"\@";
+	mso-number-format:"\0022￥\0022\#\,\#\#0\.00_\)\;\[Red\]\\\(\0022￥\0022\#\,\#\#0\.00\\\)";
 	text-align:center;
 	border:.5pt solid windowtext;
 	background:white;
 	mso-pattern:black none;
-	mso-protection:unlocked visible;
-	white-space:normal;}
+	mso-protection:unlocked visible;}
 .xl93
-	{mso-style-parent:style0;
+	{mso-style-parent:style17;
 	color:black;
-	font-size:22.0pt;
+	font-size:18.0pt;
 	font-family:等线;
 	mso-generic-font-family:auto;
 	mso-font-charset:134;
@@ -454,11 +442,12 @@ td
 	border:.5pt solid windowtext;
 	background:white;
 	mso-pattern:black none;
-	mso-protection:unlocked visible;}
+	mso-protection:unlocked visible;
+	white-space:normal;}
 .xl94
-	{mso-style-parent:style0;
+	{mso-style-parent:style17;
 	color:black;
-	font-size:22.0pt;
+	font-size:18.0pt;
 	font-family:等线;
 	mso-generic-font-family:auto;
 	mso-font-charset:134;
@@ -467,11 +456,12 @@ td
 	border:.5pt solid windowtext;
 	background:white;
 	mso-pattern:black none;
-	mso-protection:unlocked visible;}
+	mso-protection:unlocked visible;
+	white-space:normal;}
 .xl95
-	{mso-style-parent:style0;
+	{mso-style-parent:style17;
 	color:black;
-	font-size:22.0pt;
+	font-size:18.0pt;
 	font-family:等线;
 	mso-generic-font-family:auto;
 	mso-font-charset:134;
@@ -480,9 +470,10 @@ td
 	border:.5pt solid windowtext;
 	background:white;
 	mso-pattern:black none;
-	mso-protection:unlocked visible;}
+	mso-protection:unlocked visible;
+	white-space:normal;}
 .xl96
-	{mso-style-parent:style17;
+	{mso-style-parent:style0;
 	color:black;
 	font-size:18.0pt;
 	font-family:等线;
@@ -496,8 +487,22 @@ td
 	mso-protection:unlocked visible;
 	white-space:normal;}
 .xl97
-	{mso-style-parent:style17;
-	color:black;
+	{mso-style-parent:style18;
+	color:windowtext;
+	font-size:18.0pt;
+	font-family:等线;
+	mso-generic-font-family:auto;
+	mso-font-charset:134;
+	mso-number-format:"\@";
+	text-align:center;
+	border:.5pt solid windowtext;
+	background:white;
+	mso-pattern:black none;
+	mso-protection:unlocked visible;
+	white-space:normal;}
+.xl98
+	{mso-style-parent:style18;
+	color:windowtext;
 	font-size:18.0pt;
 	font-family:等线;
 	mso-generic-font-family:auto;
@@ -509,22 +514,9 @@ td
 	mso-pattern:black none;
 	mso-protection:unlocked visible;
 	white-space:normal;}
-.xl98
-	{mso-style-parent:style17;
-	color:black;
-	font-size:18.0pt;
-	font-family:等线;
-	mso-generic-font-family:auto;
-	mso-font-charset:134;
-	mso-number-format:"\0022￥\0022\#\,\#\#0\.00_\)\;\[Red\]\\\(\0022￥\0022\#\,\#\#0\.00\\\)";
-	text-align:center;
-	border:.5pt solid windowtext;
-	background:white;
-	mso-pattern:black none;
-	mso-protection:unlocked visible;
-	white-space:normal;}
 .xl99
 	{mso-style-parent:style18;
+	color:windowtext;
 	font-size:18.0pt;
 	font-family:等线;
 	mso-generic-font-family:auto;
@@ -538,48 +530,55 @@ td
 	white-space:normal;}
 .xl100
 	{mso-style-parent:style0;
-	color:black;
-	font-size:14.0pt;
+	font-size:18.0pt;
 	font-family:等线;
 	mso-generic-font-family:auto;
 	mso-font-charset:134;
 	mso-number-format:"\@";
 	text-align:center;
-	background:white;
-	mso-pattern:black none;}
-.xl101
-	{mso-style-parent:style0;
-	font-size:14.0pt;
-	font-family:等线;
-	mso-generic-font-family:auto;
-	mso-font-charset:134;
-	mso-number-format:"\@";
-	text-align:center;
-	background:white;
-	mso-pattern:black none;}
-.xl102
-	{mso-style-parent:style0;
-	color:black;
-	font-size:14.0pt;
-	font-family:等线;
-	mso-generic-font-family:auto;
-	mso-font-charset:134;
-	mso-number-format:"\@";
-	text-align:center;
+	border:.5pt solid windowtext;
 	background:white;
 	mso-pattern:black none;
+	mso-protection:unlocked visible;
 	white-space:normal;}
-.xl103
-	{mso-style-parent:style0;
-	color:black;
-	font-size:14.0pt;
+.xl101
+	{mso-style-parent:style18;
+	font-size:18.0pt;
+	font-family:等线;
+	mso-generic-font-family:auto;
+	mso-font-charset:134;
+	mso-number-format:"\@";
+	text-align:center;
+	border:.5pt solid windowtext;
+	background:white;
+	mso-pattern:black none;
+	mso-protection:unlocked visible;
+	white-space:normal;}
+.xl102
+	{mso-style-parent:style18;
+	font-size:18.0pt;
 	font-family:等线;
 	mso-generic-font-family:auto;
 	mso-font-charset:134;
 	mso-number-format:"\\$\#\,\#\#0\.00_\)\;\[Red\]\\\(\\$\#\,\#\#0\.00\\\)";
 	text-align:center;
+	border:.5pt solid windowtext;
 	background:white;
 	mso-pattern:black none;
+	mso-protection:unlocked visible;
+	white-space:normal;}
+.xl103
+	{mso-style-parent:style18;
+	font-size:18.0pt;
+	font-family:等线;
+	mso-generic-font-family:auto;
+	mso-font-charset:134;
+	mso-number-format:"\0022￥\0022\#\,\#\#0\.00_\)\;\[Red\]\\\(\0022￥\0022\#\,\#\#0\.00\\\)";
+	text-align:center;
+	border:.5pt solid windowtext;
+	background:white;
+	mso-pattern:black none;
+	mso-protection:unlocked visible;
 	white-space:normal;}
 .xl104
 	{mso-style-parent:style0;
@@ -588,8 +587,9 @@ td
 	font-family:等线;
 	mso-generic-font-family:auto;
 	mso-font-charset:134;
-	mso-number-format:"0_\)\;\[Red\]\\\(0\\\)";
+	mso-number-format:"\0022￥\0022\#\,\#\#0\.00_\)\;\[Red\]\\\(\0022￥\0022\#\,\#\#0\.00\\\)";
 	text-align:center;
+	border:.5pt solid windowtext;
 	background:white;
 	mso-pattern:black none;
-	white-space:normal;}
+	mso-protection:unlocked visible;}
