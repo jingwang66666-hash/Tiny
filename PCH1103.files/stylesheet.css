@@ -239,19 +239,20 @@ td
 .xl80
 	{mso-style-parent:style0;
 	color:black;
-	font-size:18.0pt;
+	font-size:20.0pt;
+	font-weight:700;
 	font-family:"等线 Light";
 	mso-generic-font-family:auto;
 	mso-font-charset:134;
-	mso-number-format:"\@";
+	mso-number-format:"\0022￥\0022\#\,\#\#0\.00_\)\;\[Red\]\\\(\0022￥\0022\#\,\#\#0\.00\\\)";
 	text-align:center;
 	border:.5pt solid windowtext;
 	background:white;
 	mso-pattern:black none;
 	white-space:normal;}
 .xl81
-	{mso-style-parent:style18;
-	color:windowtext;
+	{mso-style-parent:style17;
+	color:black;
 	font-size:18.0pt;
 	font-family:"等线 Light";
 	mso-generic-font-family:auto;
@@ -263,8 +264,8 @@ td
 	mso-pattern:black none;
 	white-space:normal;}
 .xl82
-	{mso-style-parent:style18;
-	color:windowtext;
+	{mso-style-parent:style17;
+	color:black;
 	font-size:18.0pt;
 	font-family:"等线 Light";
 	mso-generic-font-family:auto;
@@ -278,33 +279,6 @@ td
 .xl83
 	{mso-style-parent:style0;
 	color:black;
-	font-size:16.0pt;
-	font-family:"等线 Light";
-	mso-generic-font-family:auto;
-	mso-font-charset:134;
-	mso-number-format:"\0022￥\0022\#\,\#\#0\.00_\)\;\[Red\]\\\(\0022￥\0022\#\,\#\#0\.00\\\)";
-	text-align:center;
-	border:.5pt solid windowtext;
-	background:white;
-	mso-pattern:black none;
-	white-space:normal;}
-.xl84
-	{mso-style-parent:style0;
-	color:black;
-	font-size:20.0pt;
-	font-weight:700;
-	font-family:"等线 Light";
-	mso-generic-font-family:auto;
-	mso-font-charset:134;
-	mso-number-format:"\0022￥\0022\#\,\#\#0\.00_\)\;\[Red\]\\\(\0022￥\0022\#\,\#\#0\.00\\\)";
-	text-align:center;
-	border:.5pt solid windowtext;
-	background:white;
-	mso-pattern:black none;
-	white-space:normal;}
-.xl85
-	{mso-style-parent:style17;
-	color:black;
 	font-size:18.0pt;
 	font-family:"等线 Light";
 	mso-generic-font-family:auto;
@@ -315,9 +289,22 @@ td
 	background:white;
 	mso-pattern:black none;
 	white-space:normal;}
-.xl86
-	{mso-style-parent:style17;
-	color:black;
+.xl84
+	{mso-style-parent:style18;
+	color:windowtext;
+	font-size:18.0pt;
+	font-family:"等线 Light";
+	mso-generic-font-family:auto;
+	mso-font-charset:134;
+	mso-number-format:"\@";
+	text-align:center;
+	border:.5pt solid windowtext;
+	background:white;
+	mso-pattern:black none;
+	white-space:normal;}
+.xl85
+	{mso-style-parent:style18;
+	color:windowtext;
 	font-size:18.0pt;
 	font-family:"等线 Light";
 	mso-generic-font-family:auto;
@@ -328,8 +315,20 @@ td
 	background:white;
 	mso-pattern:black none;
 	white-space:normal;}
-.xl87
+.xl86
 	{mso-style-parent:style0;
+	font-size:18.0pt;
+	font-family:"等线 Light";
+	mso-generic-font-family:auto;
+	mso-font-charset:134;
+	mso-number-format:"\@";
+	text-align:center;
+	border:.5pt solid windowtext;
+	background:white;
+	mso-pattern:black none;
+	white-space:normal;}
+.xl87
+	{mso-style-parent:style18;
 	font-size:18.0pt;
 	font-family:"等线 Light";
 	mso-generic-font-family:auto;
@@ -346,15 +345,16 @@ td
 	font-family:"等线 Light";
 	mso-generic-font-family:auto;
 	mso-font-charset:134;
-	mso-number-format:"\@";
+	mso-number-format:"\0022￥\0022\#\,\#\#0\.00_\)\;\[Red\]\\\(\0022￥\0022\#\,\#\#0\.00\\\)";
 	text-align:center;
 	border:.5pt solid windowtext;
 	background:white;
 	mso-pattern:black none;
 	white-space:normal;}
 .xl89
-	{mso-style-parent:style18;
-	font-size:18.0pt;
+	{mso-style-parent:style0;
+	color:black;
+	font-size:16.0pt;
 	font-family:"等线 Light";
 	mso-generic-font-family:auto;
 	mso-font-charset:134;
@@ -363,4 +363,36 @@ td
 	border:.5pt solid windowtext;
 	background:white;
 	mso-pattern:black none;
+	white-space:normal;}
+.xl90
+	{mso-style-parent:style0;
+	font-weight:700;
+	font-family:"等线 Light";
+	mso-generic-font-family:auto;
+	mso-font-charset:134;
+	text-align:center;
+	border:.5pt solid windowtext;}
+.xl91
+	{mso-style-parent:style0;
+	font-weight:700;
+	font-family:"等线 Light";
+	mso-generic-font-family:auto;
+	mso-font-charset:134;
+	text-align:center;
+	border:.5pt solid windowtext;
+	white-space:normal;}
+.xl92
+	{mso-style-parent:style0;
+	font-family:"等线 Light";
+	mso-generic-font-family:auto;
+	mso-font-charset:134;
+	text-align:center;
+	border:.5pt solid windowtext;}
+.xl93
+	{mso-style-parent:style0;
+	font-family:"等线 Light";
+	mso-generic-font-family:auto;
+	mso-font-charset:134;
+	text-align:center;
+	border:.5pt solid windowtext;
 	white-space:normal;}
